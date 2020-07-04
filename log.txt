@@ -1,0 +1,20 @@
+User queried list of all tasks [{"Task":"Task1","Description":"1","DueDate":"10/5/20"},{"Task":"Task2","Description":"2","DueDate":"11/5/20"},{"Task":"Task3","Description":"3","DueDate":"12/5/20"},{"Task":"Task4","Description":"4","DueDate":"13/5/20"},{"Task":"Task5","Description":"5","DueDate":"14/5/20"},{"Task":"Task6","Description":"6","DueDate":"15/5/20"},{"Task":"Task7","Description":"7","DueDate":"16/5/20"},{"Task":"Task8","Description":"8","DueDate":"17/5/20"},{"Task":"Task9","Description":"9","DueDate":"18/5/20"},{"Task":"Task10","Description":"10","DueDate":"19/5/20"},{"Task":"Task11","Description":"11","DueDate":"20/5/20"},{"Task":"Task12","Description":"12","DueDate":"22/5/20"}] 
+@2020-7-4 -timeSat Jul 04 2020 15:08:31 GMT+0100 (British Summer Time) 
+User queried for one task using this as parameter 12 
+System returned this resultundefined 
+@2020-7-4 -timeSat Jul 04 2020 15:08:47 GMT+0100 (British Summer Time) 
+User queried for one task using this as parameter 0 
+System returned this result{"Task":"Task1","Description":"1","DueDate":"10/5/20"} 
+@2020-7-4 -timeSat Jul 04 2020 15:08:52 GMT+0100 (British Summer Time) 
+User queried for one task using this as parameter 11 
+System returned this result{"Task":"Task12","Description":"12","DueDate":"22/5/20"} 
+@2020-7-4 -timeSat Jul 04 2020 15:09:02 GMT+0100 (British Summer Time) 
+User queried a string Sleep 
+System found no matching result 
+@2020-7-4 -timeSat Jul 04 2020 15:09:27 GMT+0100 (British Summer Time) 
+User queried a string Sleep 
+System found no matching result 
+@2020-7-4 -timeSat Jul 04 2020 15:09:46 GMT+0100 (British Summer Time) 
+User queried a string looking for a task: Task1 
+System found result and returned{"Task":"Task1","Description":"1","DueDate":"10/5/20"} 
+@2020-7-4 -timeSat Jul 04 2020 15:10:06 GMT+0100 (British Summer Time) 
